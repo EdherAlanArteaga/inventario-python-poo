@@ -23,7 +23,9 @@ Estructura
 inventario-python-poo/
 │
 ├── inventario.ipynb   # Notebook principal
+
 ├── inventario.csv     # Dataset de ejemplo
+
 └── README.md
 
 
