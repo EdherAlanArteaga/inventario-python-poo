@@ -1,0 +1,7 @@
+id,nombre,categoria,precio,stock
+001,Laptop Dell,Electrónica,15999.0,10
+002,Mouse Inalámbrico,Electrónica,349.0,25
+003,Cuaderno,Papelería,45.0,3
+004,Silla Ergonómica,Muebles,4500.0,2
+005,Teclado Mecánico,Electrónica,1299.0,8
+006,Plumas,Papelería,15.0,0
